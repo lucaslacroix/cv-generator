@@ -1,0 +1,235 @@
+{
+    "personal_data": {
+        "name": "Lucas",
+        "lastname": "Lacroix",
+        "title": "Programador Full-Stack",
+        "email": "lucas-lacroix@hotmail.com",
+        "phone": "+5555996568463",
+        "country": "Brasil",
+        "city": "Florianópolis - SC"
+    },
+
+    "links": [
+        {
+            "label": "Linkedin",
+            "value": "https://www.linkedin.com/in/lacroix-lucas/"
+        },
+        {
+            "label": "GitHub",
+            "value": "https://github.com/lucaslacroix"
+        },
+        {
+            "label": "Udemy",
+            "value": "https://www.udemy.com/user/lucas-lacroix/"
+        },
+        {
+            "label": "Codepen",
+            "value": "https://codepen.io/lucaslacroix"
+        }
+    ],
+
+    "skills": [
+        {
+            "label": "Git Flow",
+            "value": "expert"
+        },
+        {
+            "label": "SCRUM",
+            "value": "expert"
+        },
+        {
+            "label": "Node JS",
+            "value": "expert"
+        },
+        {
+            "label": "Typescript",
+            "value": "expert"
+        },
+        {
+            "label": "Javascript",
+            "value": "expert"
+        },
+        {
+            "label": "React / Next.js",
+            "value": "expert"
+        },
+        {
+            "label": "Docker",
+            "value": "expert"
+        }
+    ],
+
+    "languages": [
+        {
+            "label": "English",
+            "value": "high"
+        },
+        {
+            "label": "Español",
+            "value": "high"
+        }
+    ],
+
+    "employment": [
+        {
+            "employer": "ioasys",
+            "start_date": "Ago, 2022",
+            "end_date": "present",
+            "description": null,
+            "location": "Home office",
+            "positions": [
+                {
+                    "title": "Desenvolvedor Backend Pleno",
+                    "subtitle": null,
+                    "start_date": "Set, 2023",
+                    "end_date": "present",
+                    "description": "<p>Encarregado de liderar a concepção e implementação colaborativa de uma API Rest robusta, focada em aplicativos móveis.</p><p>Trabalhei em estreita colaboração com uma equipe talentosa, aplicando uma utilização avançada de tecnologias como Firebase Admin, Firestore, Cloud Functions, Phone Authentication e Google Cloud Messages.</p><p>A expertise nas mencionadas tecnologias não apenas assegurou um desenvolvimento eficaz, escalável e seguro, mas também destacou a importância do trabalho em equipe na consecução desses objetivos.</p>",
+                    "skills": [
+                        "Firebase",
+                        "NodeJS",
+                        "NestJS",
+                        "Jenkins",
+                        "Docker",
+                        "SCRUM",
+                        "GitFlow",
+                        "Gitlab",
+                        "Microsoft Azure"
+                    ]
+                },
+                {
+                    "title": "Desenvolvedor Full Stack Pleno",
+                    "subtitle": "E-commerces Havaianas USA e Havaianas Brasil",
+                    "start_date": "Ago, 2022",
+                    "end_date": "Set, 2023",
+                    "description": "<p>Experiência abrangente na correção de bugs, desenvolvimento de novas features e manutenção de e-commerce utilizando a plataforma <strong>Salesforce Commerce Cloud</strong>.</p><p>Desempenhei papel fundamental nos e-commerces <strong>Havaianas USA</strong> e <strong>Havaianas Brasil</strong>, contribuindo com a criação de componentes para o Commerce Cloud e o desenvolvimento de funcionalidades inovadoras.</p><p>Domínio das seguintes tecnologias:</p>",
+                    "skills": [
+                        "Javascript",
+                        "NodeJS", 
+                        "Bootstrap",
+                        "JQuery",
+                        "Salesforce Commerce Cloud",
+                        "SCRUM",
+                        "GitFlow",
+                        "Gitlab",
+                        "Microsoft Azure"
+                    ]
+                }
+            ]
+        },
+        {
+            "employer": "Mercado Turbo Ltda",
+            "start_date": "Jun, 2020",
+            "end_date": "Ago, 2022",
+            "description": null,
+            "location": "Home office",
+            "positions": [
+                {
+                    "title": "Desenvolvedor Full Stack Pleno",
+                    "subtitle": "SaaS Mercado Turbo",
+                    "start_date": "Jun, 2020",
+                    "end_date": "Ago, 2022",
+                    "description": "<p>Contribuí ativamente para o desenvolvimento e manutenção de funcionalidades em uma aplicação web de integração com o Mercado Livre.</p><p>Criei aplicativos móveis e desenvolvi Micro Serviços para consumo das aplicações</p><p>Adquiri experiência nas tecnologias:</p>",
+                    "skills": [
+                        "Javascript",
+                        "CSS",
+                        "XHTML",
+                        "HTML",
+                        "JQuery",
+                        "Primefaces",
+                        "Java",
+                        "NodeJS",
+                        "React",
+                        "React Native",
+                        "Firebase",
+                        "MySQL",
+                        "NoSQL",
+                        "Docker",
+                        "Bitbucket"
+                    ]
+                },
+                {
+                    "title": "Desenvolvedor Júnior Front-end",
+                    "subtitle": "SaaS Mercado Turbo",
+                    "start_date": "Jun, 2019",
+                    "end_date": "Jun, 2020",
+                    "description": "<p>Desempenhei papel fundamental no desenvolvimento e manutenção de funcionalidades em uma aplicação web de integração com o Mercado Livre.</p>",
+                    "skills": [
+                        "Javascript",
+                        "CSS",
+                        "XHTML",
+                        "HTML",
+                        "JQuery",
+                        "Primefaces",
+                        "Bitbucket"
+                    ]
+                },
+                {
+                    "title": "Desenvolvedor Estagiário",
+                    "subtitle": "SaaS Mercado Turbo",
+                    "start_date": "Jun, 2017",
+                    "end_date": "Jun, 2019",
+                    "description": "<p>Colaborei no desenvolvimento e manutenção de funcionalidades em uma aplicação web de integração com o Mercado Livre.</p><p>Adquiri experiência e aprimorei habilidades em:</p>",
+                    "skills": [
+                        "Javascript",
+                        "CSS",
+                        "XHTML",
+                        "HTML",
+                        "JQuery",
+                        "Primefaces",
+                        "Bitbucket"
+                    ]
+                }
+            ]
+        },
+        {
+            "employer": "Vitrynet",
+            "start_date": "Fev, 2016",
+            "end_date": "Mar, 2017",
+            "description": null,
+            "location": "Santa Cruz do Sul",
+            "positions": [
+                {
+                    "title": "Desenvolvedor Júnior Front-end",
+                    "subtitle": "SaaS Mercado Turbo",
+                    "start_date": "Jun, 2020",
+                    "end_date": "Ago, 2022",
+                    "description": "<p>Desempenhei a função de desenvolvimento de sites insitucionais, sistemas para escola e outras aplicações web</p><p>Adquiri experiências nas tecnologias:</p>",
+                    "skills": [
+                        "Javascript",
+                        "CSS",
+                        "HTML",
+                        "JQuery",
+                        "Bootstrap",
+                        "Typescript",
+                        ".Net Framework"
+                    ]
+                }
+            ]
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Ciência da Computação",
+            "level": "Bacharel",
+            "school": "UNISC",
+            "start_date": "Jan, 2014",
+            "end_date": "Jun, 2016"
+        },
+        {
+            "course": "Análise e Desenvolvimento de Sistemas",
+            "school": "UNINTER",
+            "start_date": "Jan, 2019",
+            "end_date": "Set, 2021"
+        }
+    ],
+
+    "courses": [
+        {
+            "course": "Bootcamp GoStack",
+            "school": "Rocketseat",
+            "start_date": "Ago, 2019",
+            "end_date": "Ago, 2020"
+        }
+    ]
+}
